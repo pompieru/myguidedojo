@@ -41,5 +41,4 @@ elif choice == '4':
 elif choice == '5':
     print(num1, "^", num2,"=", power(num1,num2))
 else:
-    print("Invalid number")  
-	print('asdas')  
+    print("Invalid number")   
