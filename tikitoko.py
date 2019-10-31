@@ -2,8 +2,8 @@ from __future__ import print_function
 import random
 import sys
 
-print('To play against computer press 1')
-print('To play against player press2')
+print('To play against computer press |1|')
+print('To play against player press   |2|')
 playMode = input('Choose your option: ')
 
 choices = []
